@@ -2,7 +2,11 @@
 .\Test\ignore.txt
 =======
 ./don't_push.txt
+<<<<<<< HEAD
 
 Test/zcb_ignore.txt
 
 >>>>>>> 177bdca869b3a3db71ebaeff57df64181419bd0f
+=======
+.env
+>>>>>>> 3b1ac47faa0fcf7d39cbee5fa1152557ba570b53
